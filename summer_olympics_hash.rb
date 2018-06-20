@@ -17,6 +17,12 @@
 #   # into uppercased Strings, creates a new array with these values, and then puts each upcase key in the CLI
 #d
 
+summer_olympics={
+"Sydney"=>"2000",
+"Athens" => "2004",
+"Beijing" => "2008",
+"London" => "2012", 
+}
 summer_olympics= ["sydney","athens","Beijing""London"]
 summer_olympics.insert(0,"atlanta")
 puts "the 2004 summer olympics took place in #{summer_olympics}"
