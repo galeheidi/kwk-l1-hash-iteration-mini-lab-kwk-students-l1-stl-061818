@@ -7,5 +7,5 @@ summer_olympics={
 }
 summer_olympics["Atlanta"]= "1996"
 puts summer_olympics 
-puts summer_olympics.key
+puts summer_olympics.class
 puts "The #{year} summer olympics took placein#{summer_olympics}"
