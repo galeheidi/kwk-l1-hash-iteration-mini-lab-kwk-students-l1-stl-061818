@@ -6,7 +6,6 @@ summer_olympics={
 "London" => "2012", 
 end
 }
-def year ("2000", "2004","2008","2012","1996")
 summer_olympics["Atlanta"]= "1996"
 puts summer_olympics 
 puts summer_olympics.class
