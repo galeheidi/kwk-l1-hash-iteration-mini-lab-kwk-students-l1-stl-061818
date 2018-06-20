@@ -25,5 +25,5 @@ summer_olympics={
 }
 summer_olympics= ["sydney","athens","Beijing""London"]
 summer_olympics.insert(0,"atlanta")
-puts "the 2004 summer olympics took place in #{summer_olympics[1][0}"
+puts "the 2004 summer olympics took place in #"
 
